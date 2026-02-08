@@ -19,5 +19,11 @@ Detalle de los módulos principales modelados por el sistema:
 ### 3. Flujos de Trabajo Integrados
 - **[Ciclo de Vida Logístico](flujos_de_trabajo/ciclo_vida_logistica.md)**: Diagramas y explicaciones de cómo se conectan todos los procedimientos anteriores en un flujo continuo de gestión pública.
 
+## Recursos Adicionales de Referencia
+Para una comprensión más profunda de la lógica del sistema:
+- **[Glosario de Términos](glosario.md)**: Definiciones de conceptos como SIAF, PECOSA y Metas.
+- **[Reglas de Negocio Consolidadas](reglas_negocio.md)**: Los controles y validaciones que rigen el comportamiento del sistema.
+- **[Mapa de Integración](mapa_integracion.md)**: Cómo fluye la información entre el SIAF, la Logística y el módulo de Patrimonio.
+
 ## Metodología
 Este análisis se ha realizado abstrayendo las funciones del manual de usuario para identificar las reglas de negocio, las dependencias presupuestarias y los puntos de control que rigen el sistema.
